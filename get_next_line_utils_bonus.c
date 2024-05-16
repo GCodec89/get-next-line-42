@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: gonolive <gonolive@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/05/11 17:38:24 by gonolive          #+#    #+#             */
-/*   Updated: 2024/05/15 06:16:51 by gonolive         ###   ########.fr       */
+/*   Created: 2024/05/16 21:32:25 by gonolive          #+#    #+#             */
+/*   Updated: 2024/05/16 21:32:52 by gonolive         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_strchr(char *txt, int c)
 {
